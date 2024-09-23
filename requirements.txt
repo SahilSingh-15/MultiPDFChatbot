@@ -7,5 +7,5 @@ huggingface-hub==0.24.6
 altair==5.4.1
 InstructorEmbedding==1.0.1
 sentence-transformers==3.1.0
-langchain-community==0.2.16
+langchain-community
 
